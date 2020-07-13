@@ -1,0 +1,10 @@
+chr1	0	48	peak1	0	+
+chr1	200	300	peak2	0	+
+chr1	325	400	peak3	0	+
+chr1	420	500	peak4	0	+
+chr1	515	575	peak5	0	+
+chr2	101	150	peak6	0	+
+chr2	175	280	peak7	0	+
+chr2	361	380	peak8	0	-
+chr2	425	445	peak9	0	+
+chr2	480	550	peak10	0	-
